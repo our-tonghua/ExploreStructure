@@ -10,10 +10,18 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+            HStack {
+                Image(systemName: "folder.badge.plus")
+                Image(systemName: "heart.circle.fill")
+                Image(systemName: "alarm")
+            }
+            .symbolRenderingMode(.multicolor)
+            .font(.largeTitle)
+            
+            Label("Favorite Books", systemImage: "books.vertical")
+                .labelStyle(.titleAndIcon)
+                .font(.largeTitle)
+                .foregroundColor(.gray)
         }
         .padding()
     }
