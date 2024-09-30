@@ -18,6 +18,7 @@
 		C39F71BE2CA5C438009E06C7 /* AlternativeContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C39F71BD2CA5C438009E06C7 /* AlternativeContentView.swift */; };
 		C39F71C02CA5C47A009E06C7 /* ExploreStructure.swift in Sources */ = {isa = PBXBuildFile; fileRef = C39F71BF2CA5C47A009E06C7 /* ExploreStructure.swift */; };
 		C3B40AD52CAB19E100E93C6F /* IfElseTrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3B40AD42CAB19E100E93C6F /* IfElseTrain.swift */; };
+		C3B40AD72CAB29E900E93C6F /* EventTile.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3B40AD62CAB29E900E93C6F /* EventTile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		C39F71BD2CA5C438009E06C7 /* AlternativeContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlternativeContentView.swift; sourceTree = "<group>"; };
 		C39F71BF2CA5C47A009E06C7 /* ExploreStructure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreStructure.swift; sourceTree = "<group>"; };
 		C3B40AD42CAB19E100E93C6F /* IfElseTrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IfElseTrain.swift; sourceTree = "<group>"; };
+		C3B40AD62CAB29E900E93C6F /* EventTile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventTile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				C37C7D3F2CAA466300B9ED74 /* KeywordBubble.swift */,
 				C37C7D412CAAA5E700B9ED74 /* CaptionedPhoto.swift */,
 				C3B40AD42CAB19E100E93C6F /* IfElseTrain.swift */,
+				C3B40AD62CAB29E900E93C6F /* EventTile.swift */,
 				C39F71B92CA5BF64009E06C7 /* SettingsView.swift */,
 				C39F71AF2CA55C15009E06C7 /* Assets.xcassets */,
 				C39F71B12CA55C15009E06C7 /* Preview Content */,
@@ -162,6 +165,7 @@
 				C39F71BA2CA5BF64009E06C7 /* SettingsView.swift in Sources */,
 				C39F71AE2CA55C10009E06C7 /* ContentView.swift in Sources */,
 				C39F71BC2CA5C366009E06C7 /* ExploreStructureAlternativeScene.swift in Sources */,
+				C3B40AD72CAB29E900E93C6F /* EventTile.swift in Sources */,
 				C37C7D402CAA466300B9ED74 /* KeywordBubble.swift in Sources */,
 				C39F71C02CA5C47A009E06C7 /* ExploreStructure.swift in Sources */,
 				C39F71BE2CA5C438009E06C7 /* AlternativeContentView.swift in Sources */,
